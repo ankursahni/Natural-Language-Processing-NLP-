@@ -1,4 +1,5 @@
-# Natural-Language-Processing-NLP-
+# Natural-Language-Processing-NLP
+# Spam_Ham Email Classifier
 This Repository consist of NLP projects trained using different machine learning models coded in Python using Jupyter Notebook
 - Vectorization of Raw Data (Email-text).
 - Feature Engineering by creating 2 new features and
